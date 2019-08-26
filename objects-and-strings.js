@@ -56,9 +56,9 @@ const person = {
 }
 
 
-findAndLogEmployeeStatus(person);
-console.log(findAndLogEmployeeStatus);
+// findAndLogEmployeeStatus(person);
+// console.log(findAndLogEmployeeStatus);
 
-findAndLogEmployeeStatus({
-    name: prompt("what is your name?"),
-});
+// findAndLogEmployeeStatus({
+//     name: prompt("what is your name?"),
+// });
